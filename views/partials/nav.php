@@ -34,6 +34,10 @@
             Posts
           </a>
 
+          <a href="/admin/users" class="navbar-item">
+            Users
+          </a>
+
         </div>
       </div>
     </div>
